@@ -1,0 +1,3 @@
+/workspaces/matrix-math/build/CMakeFiles/app.dir
+/workspaces/matrix-math/build/CMakeFiles/edit_cache.dir
+/workspaces/matrix-math/build/CMakeFiles/rebuild_cache.dir
